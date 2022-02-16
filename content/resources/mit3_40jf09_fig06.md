@@ -2,8 +2,13 @@
 content_type: resource
 description: Handout accompanying a lecture on crystal structures and their slip systems,
   dislocation shear stress resolution, and using stereographic projections.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-40j-physical-metallurgy-fall-2009/c5e3fe555cf81dde5900060782d2f2c7_MIT3_40JF09_fig06.pdf
+file: /media/courses/3-40j-physical-metallurgy-fall-2009/c5e3fe555cf81dde5900060782d2f2c7_MIT3_40JF09_fig06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 6 Handout
 uid: c5e3fe55-5cf8-1dde-5900-060782d2f2c7

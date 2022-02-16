@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 646fa2c6-5410-c2ff-34d5-df235ad10d7d
 ---
@@ -243,7 +246,7 @@ Fig. 1a, 2b, 3a in Chen, Mingwei, et al. "Deformation Twinning in Nanocrystallin
 {{< tdopen >}}
 Heating metals; dislocation climb; recovery; annealing
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF - 1.6MB]({{< baseurl >}}/resources/mit3_40jf09_lec1011)) (Courtesy of Danny Codd. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -392,7 +395,7 @@ Precipitate hardening; phase boundaries; mechanisms; size effects
 {{< tdopen >}}
 
 
-Graph of strengthening in nickel via different sizes of Ni3Al precipitates, source unknown.
+Graph of strengthening in nickel via different sizes of Ni{{< sub "3" >}}Al precipitates, source unknown.
 
 
 {{< tdclose >}}

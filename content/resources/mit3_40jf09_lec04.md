@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on dislocation energy, stress fields, and movement
   of dislocations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-40j-physical-metallurgy-fall-2009/dc63e79f039d752385e07418d757ff4f_MIT3_40JF09_lec04.pdf
+file: /media/courses/3-40j-physical-metallurgy-fall-2009/dc63e79f039d752385e07418d757ff4f_MIT3_40JF09_lec04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 4 Recap
 uid: dc63e79f-039d-7523-85e0-7418d757ff4f
