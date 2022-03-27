@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 646fa2c6-5410-c2ff-34d5-df235ad10d7d
 resourcetype: Document
 title: Recap of Lecture 17
 uid: e01022c7-4400-80e5-5366-186662f0060c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1490541d-d505-6a17-7c8c-47d6ee70cf7a
 resourcetype: Document
 title: 'Review Assignment #2'
 uid: 1e7f8ded-48b6-168f-fbd3-f1fd65d4dcec
