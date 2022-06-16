@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on physical metallurgy.
-file: /media/courses/3-40j-physical-metallurgy-fall-2009/dcc6219f30e5c5b23928d9e2d7043e13_MIT3_40JF09_quiz2_08.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/dcc6219f30e5c5b23928d9e2d7043e13_MIT3_40JF09_quiz2_08.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Quiz II
 uid: dcc6219f-30e5-c5b2-3928-d9e2d7043e13
 ---
+Quiz on physical metallurgy.
+
