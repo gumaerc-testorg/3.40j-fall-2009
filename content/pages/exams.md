@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains three exams from Fall 2008, for reference and review,
+  and both exams with solutions for Fall 2009.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: d49f9d9c-3036-c5e3-6299-1be182cfa110
 ---
@@ -9,11 +14,11 @@ This page contains three exams from Fall 2008, for reference and review, and bot
 Fall 2008
 ---------
 
-Exam 1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_quiz1_08))
+Exam 1 ({{% resource_link f7f825a0-6a79-c419-6e17-db75786789e7 "PDF" %}})
 
-Exam 2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_quiz2_08))
+Exam 2 ({{% resource_link dcc6219f-30e5-c5b2-3928-d9e2d7043e13 "PDF" %}})
 
-Exam 3 ([PDF - 1.1MB]({{< baseurl >}}/resources/mit3_40jf09_quiz3_08))
+Exam 3 ({{% resource_link 9eff6837-871d-f797-8b69-79116b937576 "PDF - 1.1MB" %}})
 
 Fall 2009
 ---------
@@ -39,10 +44,10 @@ SOLUTIONS
 Exam 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam1))
+({{% resource_link a766ab6d-b3e3-f8f0-49c3-77eb910e0fcd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam1_sol))
+({{% resource_link f7203380-5154-2f76-06db-cc2bae2230d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,10 +56,10 @@ Exam 1
 Exam 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.4MB]({{< baseurl >}}/resources/mit3_40jf09_exam2))
+({{% resource_link 394a5b60-7f5b-6fc1-143a-012929470890 "PDF - 2.4MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_exam2_sol))
+({{% resource_link 7cd83016-a5ec-d55a-e8e7-953528a55163 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

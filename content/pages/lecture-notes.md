@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section contains slides reviewing each lecture by the graduate students
+  in the class. All student work is used with permission. Some lectures were also
+  accompanied by handouts containing images from textbooks and other sources. These
+  citations are provided at the end of the page for further reading.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 646fa2c6-5410-c2ff-34d5-df235ad10d7d
 ---
@@ -48,7 +55,7 @@ Introduction
 Basic crystallography; BCC, FCC, HCP structures; Miller indices; crystal symmetry; stereographic projection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec02))
+({{% resource_link 03f7d139-04c8-5563-62a5-d00c4d17a413 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -65,7 +72,7 @@ Table 3.1 in Courtney
 
 [fcc (111) stereographic projection for MEIS](https://web.archive.org/web/20120104054431/http://www.dl.ac.uk/MEIS/stereographs/sp.fcc.111.html)
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig02))
+({{% resource_link f77278cd-37cf-5809-90e3-da5679d0c07b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -79,7 +86,7 @@ Table 3.1 in Courtney
 Crystal shear stress and yielding; Burgers' vector; introduction to edge, screw, and mixed dislocations; stress, strain, and stored energy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec03)) (Courtesy of Leslie Dewan. Used with permission.)
+({{% resource_link 30c3376b-489e-d9a6-3f82-1e8f20214ba9 "PDF" %}}) (Courtesy of Leslie Dewan. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -102,14 +109,14 @@ Fig. 3.16 in Courtney / Fig. 2.5 in Read
 Dislocation energy; stress fields; movement of dislocations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit3_40jf09_lec04)) (Courtesy of Leslie Nachbar. Used with permission.)
+({{% resource_link dc63e79f-039d-7523-85e0-7418d757ff4f "PDF - 1.2MB" %}}) (Courtesy of Leslie Nachbar. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Fig. 4.15 in Reed-Hill
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig04))
+({{% resource_link 17517bfd-a64e-c417-338f-f62f88da426d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -123,7 +130,7 @@ Fig. 4.15 in Reed-Hill
 Dislocation interactions; Peach-Koehler equation; effects on material behavior; Frank-Read sources; observing dislocations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec05))
+({{% resource_link 253e2c4c-6c50-89e5-f101-a1457f99443d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -150,7 +157,7 @@ Fig. 4.14 in Forwood, C. T., and L. M. Clarebrough. _Electron Microscopy of Inte
 Crystal structures and their slip systems; dislocation shear stress resolution; using stereographic projections
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec06))
+({{% resource_link cab57a8f-ff3d-28db-f93e-b993f8d5bd46 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -159,7 +166,7 @@ Fig. 11.1b in Read
 
 Fig. 5.27 in Reed-Hill
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig06))
+({{% resource_link c5e3fe55-5cf8-1dde-5900-060782d2f2c7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -173,7 +180,7 @@ Fig. 5.27 in Reed-Hill
 Applying stress; cross-slipping; dislocation locking; jogs and partials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec07))
+({{% resource_link a5cbc1ce-a052-3ba1-cea8-dc37b14a110c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -184,7 +191,7 @@ Fig. 3.9, 5.3, 5.6, 7.1, 7.2, 7.3, 7.4, 7.5 in Hull & Bacon
 
 Fig. 6.42a,b in Gottstein, Günter. _Physical Foundations of Materials Science._ New York, NY: Springer, 2004. ISBN: 9783540401391.
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig07))
+({{% resource_link cb8d8008-6f80-5f6b-4fb5-10fd4b30eda5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -198,7 +205,7 @@ Fig. 6.42a,b in Gottstein, Günter. _Physical Foundations of Materials Science._
 More dislocation interactions; Orowan looping; work hardening; polycrystal deformation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec08))
+({{% resource_link d5c8cf63-03cc-e79b-edcd-b66175cf51ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -207,7 +214,7 @@ Fig. 1 in Childs, C. B., and L. M. Slifkin. "Dislocations and nuclear particle t
 
 Fig. 4.23 in Courtney
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig08))
+({{% resource_link 1d4af7bc-8c66-4050-95cb-03eb5f0e34b7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -221,7 +228,7 @@ Fig. 4.23 in Courtney
 Twinning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec09)) (Courtesy of Genevieve Russo, et al. Used with permission.)
+({{% resource_link b3a59043-1465-9a85-296c-e0edd6bd227d "PDF" %}}) (Courtesy of Genevieve Russo, et al. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -230,7 +237,7 @@ Fig. 17.1a, 17.3, 17.5, 17.6, 17.16 in Reed-Hill
 
 Fig. 1a, 2b, 3a in Chen, Mingwei, et al. "Deformation Twinning in Nanocrystalline Aluminum." _Science_ 300 (May 23, 2003): 1275-1277.
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig09))
+({{% resource_link f849fdfa-f4ee-e601-9c4b-8c661b65afb1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -243,8 +250,8 @@ Fig. 1a, 2b, 3a in Chen, Mingwei, et al. "Deformation Twinning in Nanocrystallin
 {{< tdopen >}}
 Heating metals; dislocation climb; recovery; annealing
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/mit3_40jf09_lec1011)) (Courtesy of Danny Codd. Used with permission.)
+{{< tdopen rowspan="2" >}}
+({{% resource_link c9dc8633-1e13-d11e-8dd5-d5a32b44894d "PDF - 1.6MB" %}}) (Courtesy of Danny Codd. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -283,14 +290,14 @@ Fig. 9.8 in Hosford
 Recrystallization; nucleation; grain growth; effects of temperature, strain, grain size, impurities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec12))
+({{% resource_link a2dda25e-14e0-9d24-d286-3544b2cc523a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Fig. 1.1, 6.4, 6.8a, 6.10a in Humphreys
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_fig12))
+({{% resource_link 9530fcf4-bdb0-d62a-25c0-c1c88b1cb3f4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -334,7 +341,7 @@ Exam 1
 Alloying and deformation; forces on dislocations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec15)) (Courtesy of Leslie Nachbar. Used with permission.)
+({{% resource_link 928fc05e-a00e-80fc-f1f7-dabe1ce7d94c "PDF" %}}) (Courtesy of Leslie Nachbar. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -349,7 +356,7 @@ Alloying and deformation; forces on dislocations
 Solid solutions; strengthening; annealing; diffusion kinetics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec16))
+({{% resource_link 613623af-5c60-a586-94ca-b425892aa9b0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -358,7 +365,7 @@ Fig. 5.13b,c in Courtney
 
 Fig. 9.12 in Reed-Hill
 
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig16))
+({{% resource_link 326efe90-4557-3330-7f5c-a25b03e0bc58 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -372,7 +379,7 @@ Fig. 9.12 in Reed-Hill
 Precipitate hardening; heat treatment; effect of time and temperature on microstructure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec17))
+({{% resource_link e01022c7-4400-80e5-5366-186662f0060c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -387,12 +394,12 @@ Precipitate hardening; heat treatment; effect of time and temperature on microst
 Precipitate hardening; phase boundaries; mechanisms; size effects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec18))
+({{% resource_link 3b9508ad-aba2-59c0-d062-8f6078f92349 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Graph of strengthening in nickel via different sizes of Ni3Al precipitates, source unknown.
+Graph of strengthening in nickel via different sizes of Ni{{< sub "3" >}}Al precipitates, source unknown.
 
 
 {{< tdclose >}}
@@ -406,12 +413,12 @@ Graph of strengthening in nickel via different sizes of Ni3Al precipitates, sour
 Contributions to precipitate hardening; phase diagrams; kinetics; Ostwald ripening; TTT diagrams
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit3_40jf09_lec19))
+({{% resource_link a1570daf-62f5-c89e-8922-1238683e52a7 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Fig. 4.2c, 4.6 in Fuller, Christian B. "Temporal Evolution of the Microstructures of Al(Sc,Zr) Alloys and Their Influences on Mechanical Properties." Ph.D Thesis, Northwestern University, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://129.105.37.34/refbase/files/Fuller_Thesis.pdf))
+Fig. 4.2c, 4.6 in Fuller, Christian B. "Temporal Evolution of the Microstructures of Al(Sc,Zr) Alloys and Their Influences on Mechanical Properties." Ph.D Thesis, Northwestern University, 2003. ([PDF - 1.9MB](http://129.105.37.34/refbase/files/Fuller_Thesis.pdf))
 
 Fig. 2 ([View Online](http://products.asminternational.org/mgo/data/highRes.do?database=micro1&record=2008)), 6 ([View Online](http://products.asminternational.org/mgo/data/highRes.do?database=micro1&record=2011)) in "Plate Steels."  
 Fig. 16 in "Cast Irons."  
@@ -423,7 +430,7 @@ _Vol. 9, Metallography and Microstructures._ ASM Handbook, 9th ed. Materials Par
 
 Fig. 371, 1047, 2709 in _Vol. 7, Atlas of Microstructures for Industrial Alloys_. ASM Handbook, 8th ed. Metals Park, OH: ASM, 1972.
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_fig19))
+({{% resource_link 5a3fbee7-c996-7f0f-2f27-f50cffffa144 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -437,7 +444,7 @@ Fig. 371, 1047, 2709 in _Vol. 7, Atlas of Microstructures for Industrial Alloys_
 Intra-particle stresses; isostrain and isostress; modulus limits; contiguity and percolation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec20)) (Courtesy of Leslie Dewan. Used with permission.)
+({{% resource_link 3bf8cd8d-558b-d764-8bbd-e275f334dc11 "PDF" %}}) (Courtesy of Leslie Dewan. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -452,7 +459,7 @@ Intra-particle stresses; isostrain and isostress; modulus limits; contiguity and
 Introduction to steel; Fe-C phase diagram; phases and microstructures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec21)) (Courtesy of Genevieve Russo. Used with permission.)
+({{% resource_link bd48eba8-e419-832d-2414-fb738a9dc1a7 "PDF" %}}) (Courtesy of Genevieve Russo. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -473,7 +480,7 @@ Fig. 157 in "Carbon and Alloy Steels." _Vol. 9, Metallography and Microstructure
 Steel properties
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec22))
+({{% resource_link b2d4374d-9771-d15e-075f-ee0675c3b475 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -526,7 +533,7 @@ Exam 2
 Nanocrystalline metals; properties, dislocations, and grain boundaries; applications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_40jf09_lec25)) (Courtesy of Danny Codd. Used with permission.)
+({{% resource_link 488518b9-4d07-6f0d-b2ae-ab84173dbe73 "PDF" %}}) (Courtesy of Danny Codd. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  

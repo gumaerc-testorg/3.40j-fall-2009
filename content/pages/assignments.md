@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for undergraduates of
+  the course, solutions, and review assignments for all students.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1490541d-d505-6a17-7c8c-47d6ee70cf7a
 ---
@@ -22,37 +27,37 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-HW 1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps1))
+HW 1 ({{% resource_link 443470c9-513a-9864-03fb-8555653babcb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol1))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-HW 2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps2))
-{{< tdclose >}}
-{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol2))
+({{% resource_link 16879df2-b248-6dfc-6e9d-35ee61747022 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-HW 3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps3))
+HW 2 ({{% resource_link ab31878b-fcd2-b797-5f8b-122d227f78fd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol3))
+({{% resource_link 92ce0a0c-cfba-a2cd-44d2-8d744ecc2b7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-HW 4 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps4)) 
+HW 3 ({{% resource_link 382be67c-3a3f-93f5-d7d7-dd02272be8b8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol4))
+({{% resource_link 3746cd17-c566-1d41-6f3c-050360539e4c "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW 4 ({{% resource_link 7489c221-ca06-09e7-769c-57893935d6b6 "PDF" %}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link ca9dba79-5147-2a2e-ce1b-945d79c519ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +103,7 @@ GROUP B
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Review #1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra1))
+Review #1 ({{% resource_link aa34bead-12d4-9cc9-c23d-10311bd320e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -122,7 +127,7 @@ Jin, Z.-H., et al. "[Interactions Between Non-Screw Lattice Dislocations and Coh
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Review #2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra2))
+Review #2 ({{% resource_link 1e7f8ded-48b6-168f-fbd3-f1fd65d4dcec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -146,7 +151,7 @@ Lim, A. T., et al. "[Low-angle Grain Boundary Migration in the Presence of Extri
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Review #3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra3))
+Review #3 ({{% resource_link 26b57813-9489-0911-fd8c-44b911bd7513 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
