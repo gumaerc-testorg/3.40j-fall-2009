@@ -5,6 +5,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/7cd83016a5ecd55ae8e7953528a55
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam II Solutions
 uid: 7cd83016-a5ec-d55a-e8e7-953528a55163
 ---
 Solutions to an exam on physical metallurgy.
-

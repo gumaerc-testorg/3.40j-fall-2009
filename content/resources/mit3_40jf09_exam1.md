@@ -5,6 +5,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/a766ab6db3e3f8f049c377eb910e0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam I
 uid: a766ab6d-b3e3-f8f0-49c3-77eb910e0fcd
 ---
 Exam on physical metallurgy.
-

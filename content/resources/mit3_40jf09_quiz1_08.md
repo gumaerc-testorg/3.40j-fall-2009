@@ -5,6 +5,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/f7f825a06a79c4196e17db7578678
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz I
 uid: f7f825a0-6a79-c419-6e17-db75786789e7
 ---
 Quiz on physical metallurgy.
-

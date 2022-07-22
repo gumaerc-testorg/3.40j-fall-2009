@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/e01022c7440080e55366186662f00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Recap of Lecture 17
 uid: e01022c7-4400-80e5-5366-186662f0060c
 ---
 Lecture presentation on precipitate hardening, heat treatment, and the effect of time and temperature on microstructure.
-

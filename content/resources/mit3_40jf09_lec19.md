@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/a1570daf62f5c89e89221238683e5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 19 Summary
 uid: a1570daf-62f5-c89e-8922-1238683e52a7
 ---
 Lecture presentation on contributions to precipitate hardening, phase diagrams, kinetics, Ostwald ripening, and TTT diagrams.
-

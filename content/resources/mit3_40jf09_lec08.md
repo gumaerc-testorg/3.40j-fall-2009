@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/d5c8cf6303cce79bedcdb66175cf5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 8 Summary
 uid: d5c8cf63-03cc-e79b-edcd-b66175cf51ff
 ---
 Lecture presentation on dislocation interactions, Orowan looping, work hardening, and polycrystal deformation.
-

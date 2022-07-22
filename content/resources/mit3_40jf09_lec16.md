@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/613623af5c60a58694cab425892aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 16 Summary
 uid: 613623af-5c60-a586-94ca-b425892aa9b0
 ---
 Lecture presentation on solid solutions, strengthening, annealing, and diffusion kinetics.
-

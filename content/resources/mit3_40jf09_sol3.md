@@ -5,6 +5,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/3746cd17c5661d416f3c050360539
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #3 Solutions'
 uid: 3746cd17-c566-1d41-6f3c-050360539e4c
 ---
 Solutions to a problem set on physical metallurgy.
-

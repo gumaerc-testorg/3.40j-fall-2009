@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/dc63e79f039d752385e07418d757f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 4 Recap
 uid: dc63e79f-039d-7523-85e0-7418d757ff4f
 ---
 Lecture presentation on dislocation energy, stress fields, and movement of dislocations.
-

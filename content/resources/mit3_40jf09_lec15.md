@@ -5,6 +5,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/928fc05ea00e80fcf1f7dabe1ce7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Alloying and Deformation
 uid: 928fc05e-a00e-80fc-f1f7-dabe1ce7d94c
 ---
 Lecture presentation on alloying, deformation, and forces on dislocations.
-

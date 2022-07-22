@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/17517bfda64ec417338ff62f88da4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 4 Handout
 uid: 17517bfd-a64e-c417-338f-f62f88da426d
 ---
 Handout accompanying a lecture on dislocation energy, stress fields, and movement of dislocations.
-

@@ -6,6 +6,7 @@ file: /courses/3-40j-physical-metallurgy-fall-2009/488518b94d076f0db2aeab84173db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 25 Review: Nanocrystalline Metals'
 uid: 488518b9-4d07-6f0d-b2ae-ab84173dbe73
 ---
 Lecture presentation on nanocrystalline metals, properties, dislocations, and grain boundaries.
-
