@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on physical metallurgy.
 file: /courses/3-40j-physical-metallurgy-fall-2009/92ce0a0ccfbaa2cd44d28d744ecc2b7f_MIT3_40JF09_sol2.pdf
+file_size: 51773
 file_type: application/pdf
 learning_resource_types:
 - Assignments

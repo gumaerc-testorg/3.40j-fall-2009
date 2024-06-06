@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to write a short review of a research article on physical
   metallurgy.
 file: /courses/3-40j-physical-metallurgy-fall-2009/aa34bead12d49cc9c23d10311bd320e2_MIT3_40JF09_ra1.pdf
+file_size: 42358
 file_type: application/pdf
 learning_resource_types:
 - Assignments
