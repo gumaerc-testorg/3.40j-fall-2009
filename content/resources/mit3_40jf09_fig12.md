@@ -3,6 +3,7 @@ content_type: resource
 description: Handout accompanying a lecture on recrystallization, nucleation, grain
   growth, and the effects of temperature, strain, grain size, and impurities.
 file: /courses/3-40j-physical-metallurgy-fall-2009/9530fcf4bdb0d62a25c0c1c88b1cb3f4_MIT3_40JF09_fig12.pdf
+file_size: 513856
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

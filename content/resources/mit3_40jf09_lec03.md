@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on crystal shear stress and yielding, Burgers' vector,
   edge, screw, mixed dislocations, stress, strain, and stored energy.
 file: /courses/3-40j-physical-metallurgy-fall-2009/30c3376b489ed9a63f821e8f20214ba9_MIT3_40JF09_lec03.pdf
+file_size: 410860
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
