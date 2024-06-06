@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on contributions to precipitate hardening, phase
   diagrams, kinetics, Ostwald ripening, and TTT diagrams.
 file: /courses/3-40j-physical-metallurgy-fall-2009/a1570daf62f5c89e89221238683e52a7_MIT3_40JF09_lec19.pdf
+file_size: 1247388
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

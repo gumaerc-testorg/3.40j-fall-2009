@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on solid solutions, strengthening, annealing, and
   diffusion kinetics.
 file: /courses/3-40j-physical-metallurgy-fall-2009/613623af5c60a58694cab425892aa9b0_MIT3_40JF09_lec16.pdf
+file_size: 723066
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
