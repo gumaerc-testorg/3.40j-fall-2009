@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on physical metallurgy.
-file: /courses/3-40j-physical-metallurgy-fall-2009/7489c221ca0609e7769c57893935d6b6_MIT3_40JF09_ps4.pdf
+file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/7489c221ca0609e7769c57893935d6b6_MIT3_40JF09_ps4.pdf
 file_size: 137190
 file_type: application/pdf
 learning_resource_types:
