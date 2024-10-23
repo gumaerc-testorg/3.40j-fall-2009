@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on dislocation interactions, Orowan looping, work
   hardening, and polycrystal deformation.
-file: /courses/3-40j-physical-metallurgy-fall-2009/d5c8cf6303cce79bedcdb66175cf51ff_MIT3_40JF09_lec08.pdf
+file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/d5c8cf6303cce79bedcdb66175cf51ff_MIT3_40JF09_lec08.pdf
 file_size: 851613
 file_type: application/pdf
 learning_resource_types:
