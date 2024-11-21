@@ -249,14 +249,14 @@ Contributions to precipitate hardening; phase diagrams; kinetics; Ostwald ripeni
 ({{% resource_link "a1570daf-62f5-c89e-8922-1238683e52a7" "PDF - 1.2MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-Fig. 4.2c, 4.6 in Fuller, Christian B. "Temporal Evolution of the Microstructures of Al(Sc,Zr) Alloys and Their Influences on Mechanical Properties." Ph.D Thesis, Northwestern University, 2003. ([PDF - 1.9MB](http://129.105.37.34/refbase/files/Fuller_Thesis.pdf))
+Fig. 4.2c, 4.6 in Fuller, Christian B. "Temporal Evolution of the Microstructures of Al(Sc,Zr) Alloys and Their Influences on Mechanical Properties." Ph.D Thesis, Northwestern University, 2003.
 
-Fig. 2, 6 in "Plate Steels."   
-Fig. 16 in "Cast Irons."   
-Fig. 135 in "Aluminum Alloys."   
-Fig. 31 in "Lead and Lead Alloys."   
-Fig. 52 in "Titanium and Titanium Alloys."   
-Fig. 104 in "Copper and Copper Alloys."   
+Fig. 2, 6 in "Plate Steels."    
+Fig. 16 in "Cast Irons."    
+Fig. 135 in "Aluminum Alloys."    
+Fig. 31 in "Lead and Lead Alloys."    
+Fig. 52 in "Titanium and Titanium Alloys."    
+Fig. 104 in "Copper and Copper Alloys."    
 *Vol. 9, Metallography and Microstructures.* ASM Handbook, 9th ed. Materials Park, OH: ASM International, 1985. ISBN: 9780871700155.
 
 Fig. 371, 1047, 2709 in *Vol. 7, Atlas of Microstructures for Industrial Alloys*. ASM Handbook, 8th ed. Metals Park, OH: ASM, 1972.
