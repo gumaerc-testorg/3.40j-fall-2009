@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on properties of steel, steel microstructures, pearlite,
   and martensite.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/b2d4374d9771d15e075fee0675c3b475_MIT3_40JF09_lec22.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/b2d4374d9771d15e075fee0675c3b475_MIT3_40JF09_lec22.pdf
 file_size: 338351
 file_type: application/pdf
 learning_resource_types:

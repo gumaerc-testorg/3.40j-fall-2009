@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on diislocation interactions, Peach-Koehler equation,
   effects on material behavior, Frank-Read sources, and observing dislocations.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/253e2c4c6c5089e5f101a1457f99443d_MIT3_40JF09_lec05.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/253e2c4c6c5089e5f101a1457f99443d_MIT3_40JF09_lec05.pdf
 file_size: 735473
 file_type: application/pdf
 learning_resource_types:

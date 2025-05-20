@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on steel phases; Fe-C phase diagram, microstructures,
   and eutectoid kinetics.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/bd48eba8e419832d2414fb738a9dc1a7_MIT3_40JF09_lec21.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/bd48eba8e419832d2414fb738a9dc1a7_MIT3_40JF09_lec21.pdf
 file_size: 902785
 file_type: application/pdf
 learning_resource_types:

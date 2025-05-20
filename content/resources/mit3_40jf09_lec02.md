@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on basic crystallography, BCC, FCC, and HCP structures,
   Miller indices, crystal symmetry, and stereographic projection.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/03f7d13904c8556362a5d00c4d17a413_MIT3_40JF09_lec02.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/03f7d13904c8556362a5d00c4d17a413_MIT3_40JF09_lec02.pdf
 file_size: 405533
 file_type: application/pdf
 learning_resource_types:
