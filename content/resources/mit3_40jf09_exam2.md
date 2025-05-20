@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam on physical metallurgy.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/394a5b607f5b6fc1143a012929470890_MIT3_40JF09_exam2.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/394a5b607f5b6fc1143a012929470890_MIT3_40JF09_exam2.pdf
 file_size: 2467567
 file_type: application/pdf
 learning_resource_types:
