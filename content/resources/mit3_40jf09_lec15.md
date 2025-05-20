@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on alloying, deformation, and forces on dislocations.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/928fc05ea00e80fcf1f7dabe1ce7d94c_MIT3_40JF09_lec15.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/928fc05ea00e80fcf1f7dabe1ce7d94c_MIT3_40JF09_lec15.pdf
 file_size: 357567
 file_type: application/pdf
 learning_resource_types:

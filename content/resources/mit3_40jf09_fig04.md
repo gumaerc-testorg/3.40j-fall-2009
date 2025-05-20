@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout accompanying a lecture on dislocation energy, stress fields,
   and movement of dislocations.
-file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/17517bfda64ec417338ff62f88da426d_MIT3_40JF09_fig04.pdf
+file: /courses/3-40j-physical-metallurgy-fall-2009/17517bfda64ec417338ff62f88da426d_MIT3_40JF09_fig04.pdf
 file_size: 44389
 file_type: application/pdf
 learning_resource_types:
