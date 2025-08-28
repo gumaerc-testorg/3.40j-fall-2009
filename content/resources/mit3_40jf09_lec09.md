@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on crystal twinning.
-file: /courses/3-40j-physical-metallurgy-fall-2009/b3a5904314659a85296ce0edd6bd227d_MIT3_40JF09_lec09.pdf
+file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/b3a5904314659a85296ce0edd6bd227d_MIT3_40JF09_lec09.pdf
 file_size: 332966
 file_type: application/pdf
 learning_resource_types:

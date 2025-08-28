@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on physical metallurgy.
-file: /courses/3-40j-physical-metallurgy-fall-2009/9eff6837871df7978b6979116b937576_MIT3_40JF09_quiz3_08.pdf
+file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/9eff6837871df7978b6979116b937576_MIT3_40JF09_quiz3_08.pdf
 file_size: 1174641
 file_type: application/pdf
 learning_resource_types:
