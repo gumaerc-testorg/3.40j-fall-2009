@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on precipitate hardening, phase boundaries, mechanisms,
   and size effects.
-file: /courses/3-40j-physical-metallurgy-fall-2009/3b9508adaba259c0d0628f6078f92349_MIT3_40JF09_lec18.pdf
+file: /ol-ocw-studio-app/courses/3-40j-physical-metallurgy-fall-2009/3b9508adaba259c0d0628f6078f92349_MIT3_40JF09_lec18.pdf
 file_size: 723942
 file_type: application/pdf
 learning_resource_types:
