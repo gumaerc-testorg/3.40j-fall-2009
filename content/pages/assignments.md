@@ -108,18 +108,18 @@ Review #1 ({{% resource_link aa34bead-12d4-9cc9-c23d-10311bd320e2 "PDF" %}})
 {{< tdopen >}}
 
 
-Douin, J., et al. "[Direct Measurement of the Variation in the Energy of a Dislocation Locked in Specific Orientations.](http://dx.doi.org/10.1016/j.actamat.2008.09.027)" _Acta Materialia_ 57 (January 2009): 466-473.
+Douin, J., et al. "{{% resource_link "a33ee7a2-c047-4abb-8b07-8749539e7a21" "Direct Measurement of the Variation in the Energy of a Dislocation Locked in Specific Orientations." %}}" _Acta Materialia_ 57 (January 2009): 466-473.
 
-Norfleet, D. M., et al. "[Dislocation Structures and their Relationship to Strength in Deformed Nickel Microcrystals.](http://dx.doi.org/10.1016/j.actamat.2008.02.046)" _Acta Materialia_ 56 (August 2008): 2988-3001.
+Norfleet, D. M., et al. "{{% resource_link "b81219e6-1b15-4e9f-8733-4e227202e40e" "Dislocation Structures and their Relationship to Strength in Deformed Nickel Microcrystals." %}}" _Acta Materialia_ 56 (August 2008): 2988-3001.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Wang, H., et al. "[The Transformation of Edge Dislocation Dipoles in Aluminum.](http://dx.doi.org/10.1016/j.actamat.2008.05.019)" _Acta Materialia_ 56 (October 2008): 4608-4620.
+Wang, H., et al. "{{% resource_link "fd5994fe-e1ee-4211-8083-77e27b3d9bcb" "The Transformation of Edge Dislocation Dipoles in Aluminum." %}}" _Acta Materialia_ 56 (October 2008): 4608-4620.
 
-Jin, Z.-H., et al. "[Interactions Between Non-Screw Lattice Dislocations and Coherent Twin Boundaries in Face-Centered Cubic Metals.](http://dx.doi.org/10.1016/j.actamat.2007.11.020)" _Acta Materialia_ 56 (March 2008): 1126-1135.
+Jin, Z.-H., et al. "{{% resource_link "82fde42e-287c-44c0-8545-07b15a496401" "Interactions Between Non-Screw Lattice Dislocations and Coherent Twin Boundaries in Face-Centered Cubic Metals." %}}" _Acta Materialia_ 56 (March 2008): 1126-1135.
 
 
 {{< tdclose >}}
@@ -132,18 +132,18 @@ Review #2 ({{% resource_link 1e7f8ded-48b6-168f-fbd3-f1fd65d4dcec "PDF" %}})
 {{< tdopen >}}
 
 
-Field, D. P., et al. "[The Role of Annealing Twins During Recrystallization of Cu.](http://dx.doi.org/10.1016/j.actamat.2007.03.021)" _Acta Materialia_ 55 (July 2007): 4233-4241.
+Field, D. P., et al. "{{% resource_link "3e0c0c72-19e8-4262-9152-1a427e0a5771" "The Role of Annealing Twins During Recrystallization of Cu." %}}" _Acta Materialia_ 55 (July 2007): 4233-4241.
 
-Zhang, Y. B., et al. "[Analysis of the Growth of Individual Grains During Recrystallization in Pure Nickel.](http://dx.doi.org/10.1016/j.actamat.2009.01.039)" _Acta Materialia_ 57 (May 2009): 2631-2639.
+Zhang, Y. B., et al. "{{% resource_link "a24f18aa-0bfc-4537-a369-fe8b40a872c0" "Analysis of the Growth of Individual Grains During Recrystallization in Pure Nickel." %}}" _Acta Materialia_ 57 (May 2009): 2631-2639.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Ivasishin, O. M., et al. "[Implementation of Exact Grain-Boundary Geometry into a 3-D Monte-Carlo (Potts) Model for Microstructure Evolution.](http://dx.doi.org/10.1016/j.actamat.2009.02.034)" _Acta Materialia_ 57 (May 2009): 2834-2844.
+Ivasishin, O. M., et al. "{{% resource_link "54ce69d3-de43-4156-aa6f-f5f129290a45" "Implementation of Exact Grain-Boundary Geometry into a 3-D Monte-Carlo (Potts) Model for Microstructure Evolution." %}}" _Acta Materialia_ 57 (May 2009): 2834-2844.
 
-Lim, A. T., et al. "[Low-angle Grain Boundary Migration in the Presence of Extrinsic Dislocations.](http://dx.doi.org/10.1016/j.actamat.2009.07.003)" _Acta Materialia_ 57 (October 2009): 5013-5022.
+Lim, A. T., et al. "{{% resource_link "c39f2d7f-e202-42bc-9b95-024cd2e9cdff" "Low-angle Grain Boundary Migration in the Presence of Extrinsic Dislocations." %}}" _Acta Materialia_ 57 (October 2009): 5013-5022.
 
 
 {{< tdclose >}}
@@ -156,18 +156,18 @@ Review #3 ({{% resource_link 26b57813-9489-0911-fd8c-44b911bd7513 "PDF" %}})
 {{< tdopen >}}
 
 
-Krug, Matthew E., et al. "[Core-shell Nanoscale Precipitates in Al-0.06 at.% Sc Microalloyed with Tb, Ho, Tm, or Lu.](http://dx.doi.org/10.1016/j.actamat.2009.08.074)" _Acta Materialia_ 58 (January 2010): 134-145.
+Krug, Matthew E., et al. "{{% resource_link "4bdfe287-3087-424f-9b2b-4083a08da362" "Core-shell Nanoscale Precipitates in Al-0.06 at.% Sc Microalloyed with Tb, Ho, Tm, or Lu." %}}" _Acta Materialia_ 58 (January 2010): 134-145.
 
-Adachi, Yoshitaka, et al. "[Computer-Aided Three-Dimensional Visualization of Twisted Cementite Lamellae in Eutectoid Steel.](http://dx.doi.org/10.1016/j.actamat.2008.08.017)" _Acta Materialia_ 56 (December 2008): 5995-6002.
+Adachi, Yoshitaka, et al. "{{% resource_link "e52deacb-8c18-4b72-bc15-7b8370e78621" "Computer-Aided Three-Dimensional Visualization of Twisted Cementite Lamellae in Eutectoid Steel." %}}" _Acta Materialia_ 56 (December 2008): 5995-6002.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Perez, M., et al. "[Implementation of Classical Nucleation and Growth Theories for Precipitation.](http://dx.doi.org/10.1016/j.actamat.2007.12.050)" _Acta Materialia_ 56 (May 2008): 2119-2132.
+Perez, M., et al. "{{% resource_link "f97c4a9c-4d61-4eed-a709-c88a3e2d94a3" "Implementation of Classical Nucleation and Growth Theories for Precipitation." %}}" _Acta Materialia_ 56 (May 2008): 2119-2132.
 
-Terentyev, D. A., et al. "[Strengthening due to Coherent Cr Precipitates in Fe-Cr Alloys: Atomistic Simulations and Theoretical Models.](http://dx.doi.org/10.1016/j.actamat.2008.03.004)" _Acta Materialia_ 56 (August 2008): 3229-3235.
+Terentyev, D. A., et al. "{{% resource_link "bb05e3c0-ce20-4ea7-b2fa-610fadbf6f7d" "Strengthening due to Coherent Cr Precipitates in Fe-Cr Alloys: Atomistic Simulations and Theoretical Models." %}}" _Acta Materialia_ 56 (August 2008): 3229-3235.
 
 
 {{< tdclose >}}
