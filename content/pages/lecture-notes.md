@@ -39,7 +39,7 @@ Basic crystallography; BCC, FCC, HCP structures; Miller indices; crystal symmetr
 
 Diagrams of the stereographic projection and cubic crystal poles, sources unknown.
 
-Drawings of the [hexagonal close-packed lattice](https://web.archive.org/web/20120609152757/http://www.chem.ox.ac.uk/icl/heyes/structure_of_solids/Lecture1/HCP.gif) in "[Close-Packing of spheres.](http://hexnet.org/content/close-packing-spheres)" From Lecture 1, Fundamental Aspects of Solids and Sphere Packing. Heyes, S. J. *Structures of Simple Inorganic Solids.* Oxford College, 1999.
+Drawings of the {{% resource_link "1bebf85b-9f3f-4a10-a609-063b21e13af6" "hexagonal close-packed lattice" %}} in "{{% resource_link "0c949fcf-10b9-4823-9fd6-475f11c1879e" "Close-Packing of spheres." %}}" From Lecture 1, Fundamental Aspects of Solids and Sphere Packing. Heyes, S. J. *Structures of Simple Inorganic Solids.* Oxford College, 1999.
 
 Fig. 1.33 in Reed-Hill
 
@@ -47,7 +47,7 @@ Fig. 2-38 in Cullity
 
 Table 3.1 in Courtney
 
-[fcc (111) stereographic projection for MEIS](https://web.archive.org/web/20120104054431/http://www.dl.ac.uk/MEIS/stereographs/sp.fcc.111.html)
+{{% resource_link "4c0ae75d-30f8-42f9-bbfc-349b4f7bd3bb" "fcc (111) stereographic projection for MEIS" %}}
 
 ({{% resource_link "f77278cd-37cf-5809-90e3-da5679d0c07b" "PDF" %}})
 
